@@ -32,7 +32,7 @@ export default function Home() {
         <Button className={cx(classes.control, classes.secondaryControl)} size="lg">
           Live demo
         </Button>
-      </div>npm run dev
+      </div>
     </div>
   </div>
   );
